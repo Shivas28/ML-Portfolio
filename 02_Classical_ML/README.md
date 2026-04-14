@@ -12,7 +12,7 @@
 
 ## 📚 Notebooks
 
-# 🚗 Multiple Linear Regression — Toyota Corolla Price Prediction
+# 🚗 1.Multiple Linear Regression — Toyota Corolla Price Prediction
 
 ## 📌 Overview
 Predicts used car prices from the Toyota Corolla dataset by comparing three progressively simpler models and applying regularization techniques.
@@ -43,7 +43,7 @@ Predicts used car prices from the Toyota Corolla dataset by comparing three prog
 
 ---
 
-# 🩺 Logistic Regression — Diabetes Prediction
+# 🩺 2.Logistic Regression — Diabetes Prediction
 
 ## 📌 Overview
 Binary classification model to predict diabetes risk using the Pima Indians dataset, with deployment-ready code included.
@@ -72,7 +72,7 @@ Binary classification model to predict diabetes risk using the Pima Indians data
 
 ---
 
-# 💊 Support Vector Machine — Pharma Drug Response Classification
+# 💊 3.Support Vector Machine — Pharma Drug Response Classification
 
 ## 📌 Overview
 Classifies drug response in pharmaceutical industry data using SVM with multiple kernel comparisons and parameter tuning.
@@ -104,7 +104,7 @@ Classifies drug response in pharmaceutical industry data using SVM with multiple
 
 ---
 
-# 🫀 Decision Tree — Heart Disease Prediction
+# 🫀 4.Decision Tree — Heart Disease Prediction
 
 ## 📌 Overview
 Predicts the presence of heart disease using Decision Tree classifier with hyperparameter tuning via GridSearchCV.
@@ -132,7 +132,7 @@ Predicts the presence of heart disease using Decision Tree classifier with hyper
 
 ---
 
-# 🔮 Random Forest — Glass Type Classification
+# 🔮 5.Random Forest — Glass Type Classification
 
 ## 📌 Overview
 Multi-class classification of glass types using Random Forest, with SMOTE applied to handle severe class imbalance, and comparison against Bagging and AdaBoost.
